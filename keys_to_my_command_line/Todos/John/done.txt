@@ -1,0 +1,3 @@
+john-a.todos.1:- Submit budget for Executive Summit [done]
+john-a.todos.1:- Harass Steve about missed deadlines [DONE]
+john-a.todos.3:- Get to the gym (strength training) [DONE]

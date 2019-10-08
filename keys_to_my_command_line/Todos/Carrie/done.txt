@@ -1,0 +1,6 @@
+carrie-b.todos.1:- Mow the lawn [DONE]
+carrie-b.todos.1:- Buy mango juice [Done]
+carrie-b.todos.2:- Learn Box Step [DONE]
+carrie-b.todos.2:- Learn Corner Step [DONE]
+carrie-b.todos.2:- Learn How to Krump like a boss [done]
+carrie-b.todos.3:- buy full-length mirror for bathroom [done!]

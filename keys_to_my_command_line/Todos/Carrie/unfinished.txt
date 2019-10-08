@@ -1,0 +1,8 @@
+carrie-b.todos.1:- Laundry
+carrie-b.todos.1:- Buy course books
+carrie-b.todos.1:- Email Dan
+carrie-b.todos.2:- Learn Pas Bourre
+carrie-b.todos.2:- start reading "introduction to choreography"
+carrie-b.todos.3:- Call Meghan
+carrie-b.todos.3:- Apartment hunting (find 3 candidates)
+carrie-b.todos.3:- Taxes :(
