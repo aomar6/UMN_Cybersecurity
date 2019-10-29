@@ -1,6 +1,0 @@
-john-a.todos.1:- Send pamela email re project manager opportunity
-john-a.todos.2:- Kill time
-john-a.todos.2:- Read "Philosophy in South Park"
-john-a.todos.3:- Morning Yoga
-john-a.todos.3:- Buy new Dress Shirts
-john-a.todos.3:- Buy new shoes
